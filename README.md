@@ -4,7 +4,7 @@
   - This Repository is a demo where we deploy our machine learning models, which include a model speech recognition for mixed Arabic-English speech, a translation, and a summarization model. In this Project we used flask framework to create the demo as a web application.
   
 # Video:
-[Watch the demo video](https://www.linkedin.com/posts/ahmed-omari-273054213_automaticabrsummarizationabrofabrmixedabrarabicabrenglsihabrspeech-activity-7018326225853063168-nBmu?utm_source=share&utm_medium=member_desktop)
+[Watch the demo video](https://www.linkedin.com/posts/hadeer-mamdooh-204522171_details-of-project-activity-7019034056910643200-WfL6?utm_source=share&utm_medium=member_android)
 
 # Getting Started
 ## To run the demo, walk with the following steps:
@@ -20,7 +20,7 @@
 
 # Machine Learning & Deep Learning work 
   - You can find the work of machine learning on this repository, where you will find the full machine learning pipeline that was followed to gain the models.
-  - https://github.com/ahmed-0egy/Training-Automatic-Speech-Summarization-Model-for-Multi-Lingual-Speech
+https://github.com/hadeer98/Automatic-Speech-Summarization-of-Mixed-Arabic-English-Speech/blob/aa21104da0019bfa9fe14fceb87b1d985e40c259/Rouge.ipynb
 # Project Structure
 ## The project has the following file structure:
 . <br>
